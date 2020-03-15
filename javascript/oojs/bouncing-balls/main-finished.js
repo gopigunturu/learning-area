@@ -89,7 +89,7 @@ while(balls.length < 10) {
     1,
     random(-7,7),
     //'rgb(' + random(0,255) + ',' + random(0,255) + ',' + random(0,255) +')',
-    rbg(5,215,151),
+    rbg('5','215','151'),
     size
   );
   balls.push(ball);
